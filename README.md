@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0090-subsets-ii) |
+| [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0682-baseball-game) |
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
