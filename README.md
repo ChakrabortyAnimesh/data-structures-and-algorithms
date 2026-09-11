@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0051-n-queens) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0051-n-queens) |
@@ -40,5 +42,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
