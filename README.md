@@ -63,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
