@@ -71,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
