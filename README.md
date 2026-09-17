@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0682-baseball-game) |
+| [1046-last-stone-weight](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1046-last-stone-weight) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
