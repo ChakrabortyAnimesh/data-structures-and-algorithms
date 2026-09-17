@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -82,5 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
