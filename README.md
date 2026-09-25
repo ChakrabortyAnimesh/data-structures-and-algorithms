@@ -96,14 +96,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1046-last-stone-weight) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
