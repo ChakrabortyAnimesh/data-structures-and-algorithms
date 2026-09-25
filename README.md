@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
