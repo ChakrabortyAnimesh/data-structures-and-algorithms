@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0213-house-robber-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1046-last-stone-weight) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
