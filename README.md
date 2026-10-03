@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 ## Matrix
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
