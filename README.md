@@ -135,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0213-house-robber-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
