@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0213-house-robber-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1046-last-stone-weight) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0213-house-robber-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -168,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
