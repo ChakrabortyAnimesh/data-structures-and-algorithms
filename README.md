@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0047-permutations-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0047-permutations-ii) |
 ## Algorithm X
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Tree
 |  |
