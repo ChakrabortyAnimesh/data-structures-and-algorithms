@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -191,9 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1049-last-stone-weight-ii) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
