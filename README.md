@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1049-last-stone-weight-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0047-permutations-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Algorithm X
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1046-last-stone-weight) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Graph Theory
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Longest Common Subsequence
 |  |
 | ------- |
