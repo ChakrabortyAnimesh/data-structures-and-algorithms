@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1049-last-stone-weight-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Stack
 |  |
 | ------- |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0583-delete-operation-for-two-strings) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
