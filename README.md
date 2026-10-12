@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1049-last-stone-weight-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0090-subsets-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Longest Common Subsequence
 |  |
 | ------- |
