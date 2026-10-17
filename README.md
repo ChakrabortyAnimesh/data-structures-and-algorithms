@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0047-permutations-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Algorithm X
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ChakrabortyAnimesh/data-structures-and-algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
 | ------- |
